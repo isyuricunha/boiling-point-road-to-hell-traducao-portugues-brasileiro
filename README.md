@@ -123,8 +123,6 @@ Mantenha exatamente a estrutura de diretórios existente no pacote.
 
 Quando o Windows perguntar se deseja mesclar pastas ou substituir arquivos, confirme.~
 
-* Coloque o jogo em Espanhol (TEMPORARIO)
-
 ---
 
 ## 🇧🇷 Sistema de idioma
